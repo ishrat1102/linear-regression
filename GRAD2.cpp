@@ -1,4 +1,4 @@
-#----------------------------DONE BY ISHRAT JABEN BUSHRA----------------------
+/*----------------------------DONE BY ISHRAT JABEN BUSHRA----------------------*/
 #include<bits/stdc++.h>
 #include<stdlib.h>
 #include <iostream>
